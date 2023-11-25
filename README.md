@@ -1,4 +1,6 @@
 # RE-Net
-For brain extraction from fetal MR images.
+The codes are for the article "Image Recovery Matters: A Recovery-Extraction Framework for Robust Fetal Brain Extraction from MR Images"
 
-All the codes will be available after acceptance, including data augmentation, coarse segmentation network (ROI extraction), image recovery network, and fetal brain extraction network.
+DOI: 10.1109/JBHI.2023.3333953
+
+The codes include two networks, IR-Net and BE-Net.
